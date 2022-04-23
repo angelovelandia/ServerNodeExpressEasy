@@ -8,7 +8,7 @@ _Este proyecto fue creado para principiantes_
 _Para usar el proyecto solo debes descargar y extraer el archivo ZIP, despues instalar las librerias necesarios_
 
 ```
-npm install o npm i
+npm install
 ```
 
 _Para ejecutar el proyecto en ambiente de pruebas_
