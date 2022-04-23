@@ -5,7 +5,13 @@ _Este proyecto fue creado para principiantes_
 
 ### Instalación 🔧
 
-_Para usar el proyecto solo debes descargar y extraer el archivo ZIP, despues ejecutar el proyecto en ambiente de pruebas de la siguiente forma_
+_Para usar el proyecto solo debes descargar y extraer el archivo ZIP, despues instalar las librerias necesarios_
+
+```
+npm install o npm i
+```
+
+_Para ejecutar el proyecto en ambiente de pruebas_
 
 ```
 npm run dev
@@ -26,6 +32,7 @@ _Librerias usadas npm_
 * Express
 * Colors
 * Body Parser
+* Nodemon
 
 ## Autores ✒️
 
